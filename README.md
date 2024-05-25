@@ -25,7 +25,7 @@ HaiciOS is a program developed in Batch (CMD) which essentially creates an envir
         📦 Standalone Zip
       </a><br />
       <span>
-        ❓ The difference varies between the size of the monitor.
+        ❓ The difference varies between the resolution of the monitor.
       </span>
     </td>
   </tr>
