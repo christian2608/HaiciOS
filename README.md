@@ -32,3 +32,12 @@ HaiciOS is a program developed in Batch (CMD) which essentially creates an envir
 </table>
 
 <hr />
+
+## How to install it?
+You don't need to install anything, everything can be started via the os.bat file. However, make sure not to move any folders or files from the folder in which the program is contained.
+
+## Does it work on every version of Windows?
+Tested on W10 and W11, older versions need to be compatible.
+
+## Can it be installed on external drives?
+The way HaiciOS was programmed, yes. You can put the system folder anywhere.
