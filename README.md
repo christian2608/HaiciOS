@@ -11,17 +11,16 @@ HaiciOS is a program developed in Batch (CMD) which essentially creates an envir
 </tbody>
   <tr>
     <td>
-      <img src="./.github/images/windows.png" width="24"><br />
       Windows
     </td>
     <td>
       <span>Low Resolution</span>
-      <a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js-win32-ia32-1.2.0.zip">
+      <a href="">
         📦 Standalone Zip
       </a>
       <br />
       <span>High Resolution</span>
-      <a href="https://github.com/felixrieseberg/macintosh.js/releases/download/v1.2.0/macintosh.js-win32-x64-1.2.0.zip">
+      <a href="">
         📦 Standalone Zip
       </a><br />
       <span>
