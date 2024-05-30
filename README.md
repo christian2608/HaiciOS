@@ -1,7 +1,7 @@
 # HaiciOS
 HaiciOS is a program developed in Batch (CMD) which essentially creates an environment similar to a real operating system. In fact, HaiciOS is much more of a "game" rather than a real system or program.
 
-![Screenshot](https://raw.githubusercontent.com/christian2608/HaiciOS/main/screenshot.png)
+![Screenshot](https://github.com/christian2608/HaiciOS/blob/main/screenshot-build1.png)
 
 ## Downloads
 
@@ -16,6 +16,7 @@ HaiciOS is a program developed in Batch (CMD) which essentially creates an envir
     <td>
       <span>Low Resolution</span>
       <a href="">
+        <a href="https://github.com/christian2608/HaiciOS/releases/download/Progr4msz/haicios-devtest1.zip">
         📦 Standalone Zip
       </a>
       <br />
